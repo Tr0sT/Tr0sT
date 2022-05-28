@@ -9,14 +9,13 @@ I am a Unity developer living in Nizhniy Novgorod, Russia.
 
 <h3 align="left">Connect with me:</h3>
 
-[![](https://visitcount.itsvg.in/api?id=tr0st&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Tr0sT&label=Profile%20Views&color=12&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
 <p align="left">
 <a href="https://vk.com/trosty" target="_blank">
                 <img
                         src="https://tr0st.github.io/assets/png/vk.png"
                         alt=""
-                        class="icon"
                 />
             </a>
             
@@ -24,7 +23,6 @@ I am a Unity developer living in Nizhniy Novgorod, Russia.
                 <img
                         src="https://tr0st.github.io/assets/png/discord.png"
                         alt=""
-                        class="icon"
                 />
             </a>
             
@@ -32,7 +30,6 @@ I am a Unity developer living in Nizhniy Novgorod, Russia.
                 <img
                         src="https://tr0st.github.io/assets/png/telegram.png"
                         alt=""
-                        class="icon"
                 />
             </a>
             
@@ -40,7 +37,6 @@ I am a Unity developer living in Nizhniy Novgorod, Russia.
                 <img
                         src="https://tr0st.github.io/assets/png/github.png"
                         alt=""
-                        class="icon"
                 />
             </a>
             
@@ -48,7 +44,6 @@ I am a Unity developer living in Nizhniy Novgorod, Russia.
                 <img
                         src="https://tr0st.github.io/assets/png/email.png"
                         alt=""
-                        class="icon"
                 />
             </a>
 </p>
