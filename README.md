@@ -1,10 +1,6 @@
 # Hi there!👋, Sergey Morozov here
 I am a Unity developer living in Nizhniy Novgorod, Russia.
-
----
-
-#### Where is my portfolio ?
-- Here it is: https://tr0st.github.io
+https://tr0st.github.io
 ---
 
 ### Connect with me:
