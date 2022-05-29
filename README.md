@@ -1,7 +1,8 @@
 # Hi there!👋, Sergey Morozov here
-I am a Unity developer living in Nizhniy Novgorod, Russia.
+I am a Unity developer living in Nizhniy Novgorod, Russia. 
 
 https://tr0st.github.io
+
 ---
 
 ### Connect with me:
