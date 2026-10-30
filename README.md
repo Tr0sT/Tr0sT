@@ -1,14 +1,46 @@
-# Hi there!👋, Sergey Morozov here
-I am a Unity developer living in Nizhniy Novgorod, Russia. 
+<p><samp>@Tr0sT</samp></p>
 
-https://nuclearband.rocks
+# Sergey Morozov.
+
+### Games, thoughtful tools,<br>and a little less manual work.
+
+I build games, developer tools, and AI agent workflows.
+
+<br>
+
+## Selected work
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/Tr0sT/multica-declarative">multica-<wbr>declarative</a></h3>
+<p>Manage agents and workspaces as code. Export, plan, apply.</p>
+</td>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/NuclearBand/NuclearProjectFolderIcons">NuclearProject<wbr>FolderIcons</a></h3>
+<p>Custom folder icons to make Unity projects easier to navigate.</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/NuclearBand/NuclearWindowsManager">NuclearWindows<wbr>Manager</a></h3>
+<p>A UI window manager for Unity games, from menus to popups.</p>
+</td>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/Tr0sT/InterviewHelper">Interview<wbr>Helper</a></h3>
+<p>Meeting and interview transcription with AI answers on demand.</p>
+</td>
+</tr>
+</table>
+
+## Writing
+
+I write about game development, programming, and AI.
+
+[**NuclearBand — Telegram blog ↗**](https://t.me/nuclearband) · [Website ↗](https://nuclearband.rocks/)
+
+[Thoughts on building an AI-native company ↗](https://nuclearband.rocks/articles/AINativeCompany/)
 
 ---
 
-### Connect with me:
- [![](https://tr0st.github.io/assets/png/vk.png)](https://vk.com/trosty) 
- [![](https://tr0st.github.io/assets/png/discord.png) ](https://discordapp.com/users/Tr0sT#2607) 
- [![](https://tr0st.github.io/assets/png/telegram.png) ](https://t.me/tr0st) 
- [![](https://tr0st.github.io/assets/png/email.png)](mailto:tr0st@bk.ru)
-
-[![](https://visitcount.itsvg.in/api?id=Tr0sT&label=Profile%20Views&color=12&icon=5&pretty=false)](https://visitcount.itsvg.in)
+[Message me on Telegram](https://t.me/tr0st) · [Email](mailto:tr0st@bk.ru)
